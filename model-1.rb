@@ -12,3 +12,7 @@ Booleans
 is_recreational = true
 is_natural = false
 safe_to_swim = true
+
+Arrays
+local_fish = ['perch', 'trout', 'Kokanee salmon', 'Coho salmon']
+nearest_cities = ['Cascade', 'Donnelly', 'McCall']
