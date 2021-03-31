@@ -16,3 +16,6 @@ safe_to_swim = true
 Arrays
 local_fish = ['perch', 'trout', 'Kokanee salmon', 'Coho salmon']
 nearest_cities = ['Cascade', 'Donnelly', 'McCall']
+
+Hashes
+reservoir_stats = {"catchment_area" => 620, "surface_area" => 47}
